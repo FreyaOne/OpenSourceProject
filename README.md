@@ -1,2 +1,10 @@
-# OpenSourceProject
-A project of our lesson
+# 开源课程项目
+这是我们开源课程的一个实验项目
+
+## 项目名称
+这里是项目名称
+
+## 贡献者介绍
+写一些介绍
+
+## issue提交与管理
